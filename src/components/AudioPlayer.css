@@ -1,0 +1,99 @@
+.audio-player {
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .audio-button, .reset-button {
+    margin-top: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    color: white;
+  }
+  
+  .audio-button {
+    background-color: #007bff /* Green */
+  }
+  
+  .audio-button:hover {
+    background-color: #035dbe
+  }
+  
+  .reset-button {
+    background-color: #007bff; /* Blue */
+  }
+  
+  .reset-button:hover {
+    background-color: #0069d9;
+  }
+  
+  
+  .song-info {
+    margin-bottom: 5px;
+    color: aliceblue;
+  }
+  
+  
+  .audio-button {
+    background-color: rgba(255, 255, 255, 0.6); /* White with 30% opacity */
+    border: none;
+    color: black;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    border-radius: 50px; /* Use half of the button height for full round */
+    justify-content: center;
+  }
+  
+  .audio-button:hover {
+    background-color: rgba(255, 255, 255, 0.4); /* White with 50% opacity on hover */
+  }
+  
+  .audio-button:active {
+    background-color: rgba(255, 255, 255, 0.7); /* White with 70% opacity when clicked */
+  }
+  
+
+
+  /* timeline */
+  .timeline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .progress-bar {
+    flex: 1;
+    margin: 0 10px;
+    height: 9px;
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 20px;
+    background-color: #ddd;
+  }
+  
+  .progress-bar::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 10px;
+    height: 10px;
+    background-color: #333;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  .progress-bar::-moz-range-thumb {
+    width: 10px;
+    height: 10px;
+    background-color: #333;
+    cursor: pointer;
+  }
