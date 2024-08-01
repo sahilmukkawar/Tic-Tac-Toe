@@ -16,13 +16,17 @@ Welcome to the Tic-Tac-Toe game built with React and integrated with music featu
 #Installation and Setup
 
 Step 1: Clone the Repository
+
 git clone https://github.com/sahilmukkawar/Tic-Tac-Toe.git
+
 cd Tic-Tac-Toe
 
 Step 2:Install Dependencies
+
 npm install
 
 Step 3: Start the Development Server
+
 npm start
 
 
