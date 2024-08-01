@@ -1,5 +1,5 @@
 ﻿# Tic-Tac-Toe Game with Music
-Welcome to the Tic-Tac-Toe game built with React and integrated with music features! This application allows you to play the classic Tic-Tac-Toe game while enjoying some bac#kground music.
+Welcome to the Tic-Tac-Toe game built with React and integrated with music features! This application allows you to play the classic Tic-Tac-Toe game while enjoying some background music.
 
 **Live Demo**
 
