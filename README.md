@@ -3,8 +3,7 @@ Welcome to the Tic-Tac-Toe game built with React and integrated with music featu
 
 **Live Demo**
 
-[https://sahil-tik-tak.netlify.app/](url)
-
+[🔵 Live Project URL](https://sahil-tik-tak.netlify.app/)
 
 **Features**
 
